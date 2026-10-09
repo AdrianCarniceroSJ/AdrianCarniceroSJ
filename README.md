@@ -1,4 +1,5 @@
-## Holaaa 👋, soy Adrian y hoy he comido verduras.👌
+## Holaaa 👋, soy Adrian.
+🖥️ Estuadiante del centro SAFA Tech 
  
 
 <!--
