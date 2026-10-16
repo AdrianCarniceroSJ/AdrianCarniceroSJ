@@ -3,15 +3,15 @@
 🚀Me gustaria aprender a diseñar apliaciones 
 🥊Me gustan mucho los deportes
 
-# 🛠️ Tecnologías y habilidades
+# Tecnologías y habilidades
 
 | Tecnología | Nivel / Conocimientos |
 |---|---|
 | ☕ Java | Básico |
 | 🗄️ SQL | Básico |
 | 🐙 Git y GitHub | Básico |
-| 💻 Windows | Básico |
-| 🤖 Inteligencia Artificial | En aprendizaje |
+
+
 
  
 
