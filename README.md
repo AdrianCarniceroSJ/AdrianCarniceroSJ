@@ -1,7 +1,7 @@
 # Holaaa 👋, soy Adrian.
 🖥️ Estuadiante del centro SAFA Tech <br>
 🚀Me gustaria aprender a diseñar apliaciones <br>
-🥊Me gustan mucho los deportes <br>
+🥊Me gustan mucho los deportes
 ---
 
 # Tecnologías y habilidades
