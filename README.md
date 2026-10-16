@@ -1,4 +1,8 @@
-# Holaaa 👋, soy Adrian.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=30&pause=1000&background=FFFFFF00&center=true&width=435&lines=Estudiante++de+DAM)](https://git.io/typing-svg)
+# Holaaa 👋, soy Adrian Carnicero
+
+# Sobre mi👨‍🎓⬇️
+
 🖥️ Estuadiante del centro SAFA Tech <br>
 🚀Me gustaria aprender a diseñar apliaciones <br>
 🥊Me gustan mucho los deportes
@@ -13,9 +17,9 @@
 | 🐙 Git y GitHub | Básico           |
 
 ---
-  *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*🧠
+  > *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*🧠
 ---
-[Esto es github](https://github.com/)
+[Esta es la pagina web de github](https://github.com/)
 
  
 
