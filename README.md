@@ -1,7 +1,7 @@
 # Holaaa 👋, soy Adrian.
-🖥️ Estuadiante del centro SAFA Tech.
-🚀Me gustaria aprender a diseñar apliaciones 
-🥊Me gustan mucho los deportes
+🖥️ Estuadiante del centro SAFA Tech <br>
+🚀Me gustaria aprender a diseñar apliaciones <br>
+🥊Me gustan mucho los deportes <br>
 ---
 
 # Tecnologías y habilidades
@@ -13,9 +13,9 @@
 | 🐙 Git y GitHub | Básico           |
 
 ---
-  *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*
+  *"El éxito es la suma de pequeños esfuerzos repetidos día tras día."*🧠
 ---
-[Esto 
+[Esto es github](https://github.com/)
 
  
 
