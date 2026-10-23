@@ -2,7 +2,7 @@
 <!-- ========== CABECERA ========== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hola%2C%20soy%20Adrian Cranicero&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Libros%20%C2%B7%20C%C3%B3digo%20%C2%B7%20Dos%20ruedas&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hola%2C%20soy%20AdrianCranicero&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Libros%20%C2%B7%20C%C3%B3digo%20%C2%B7%20Dos%20ruedas&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/TU_USUARIO">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=600&lines=Apasionado+de+los+libros+%F0%9F%93%9A;Rodando+en+mi+Voge+625R+%F0%9F%8F%8D%EF%B8%8F;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
