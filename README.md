@@ -65,7 +65,7 @@
 ## 📫 Contacto y enlaces
 
 - 📧 **Email:** a.carnicero@fp.safavalladolid.com
-- 🔗 **Mi GitHub:** [github.com/TU_USUARIO](https://github.com/AdrianCarniceroSJ)
+- 🔗 **Mi GitHub:** [github.com/AdrianCarniceroSJ](https://github.com/AdrianCarniceroSJ)
 
 <div align="center">
 
